@@ -7,4 +7,4 @@ Using: Node.js MongoDB
 
 
 
-A blog website which can add new blogs, edit blog and delete blogs. 
+A blog website which can add new blog, edit blog and delete blog. 
